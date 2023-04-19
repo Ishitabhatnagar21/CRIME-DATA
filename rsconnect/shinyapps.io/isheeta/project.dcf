@@ -1,0 +1,13 @@
+name: PROJECT
+title: PROJECT
+username:
+account: isheeta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8885927
+bundleId: 7105571
+url: https://isheeta.shinyapps.io/project/
+when: 1681837901.36961
+lastSyncTime: 1681837901.36963
+asMultiple: FALSE
+asStatic: FALSE

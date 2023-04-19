@@ -1,0 +1,13 @@
+name: CRIME-DATA
+title: CRIME-DATA
+username:
+account: isheeta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8885800
+bundleId: 7105331
+url: https://isheeta.shinyapps.io/CRIME-DATA/
+when: 1681835179.71226
+lastSyncTime: 1681835179.71228
+asMultiple: FALSE
+asStatic: FALSE
